@@ -8,9 +8,13 @@ Use this link to see our website for the game! https://herdingchats.wixsite.com/
 
 Team: 
 Programming - Per Van Dyke and Shan Jiang
+
 Design - Alex McGrath and Eric Perryman
+
 Audio - Granger Smith-Massa
+
 Production - Matt Spring
+
 Art - Nat Mongilio
 
 
