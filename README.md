@@ -4,6 +4,8 @@ WebGL version 6 for a Twitch-Integrated game
 This is the final version of Herding Chats. 
 Use this link to PLAY! https://shelleyj32.github.io/HerdingChatsGL_06/
 
+Use this link to see our website for the game! https://herdingchats.wixsite.com/mysite
+
 Team: 
 Programming - Per Van Dyke and Shan Jiang
 Design - Alex McGrath and Eric Perryman
